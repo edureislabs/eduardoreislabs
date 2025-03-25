@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋, sou o Eduardo</h1>
 <h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoreise&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoreise" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardoreise" alt="eduardoreise" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoreislabs&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoreislabs" /> </p>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em desenvolvimento
 
@@ -70,7 +68,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoreise&show_icons=true&locale=en&layout=compact" alt="eduardoreise" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoreislabs&show_icons=true&locale=en&layout=compact" alt="eduardoreise" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoreise&show_icons=true&locale=en" alt="eduardoreise" /></p>
 
