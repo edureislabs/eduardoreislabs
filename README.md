@@ -68,7 +68,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoreislabs&show_icons=true&locale=en&layout=compact" alt="eduardoreise" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoreislabs&show_icons=true&locale=en&layout=compact" alt="eduardoreislabs" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoreise&show_icons=true&locale=en" alt="eduardoreise" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoreislabs&show_icons=true&locale=en" alt="eduardoreislabs" /></p>
 
