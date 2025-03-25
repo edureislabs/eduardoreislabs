@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardoreise" alt="eduardoreise" /></a> </p>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://eduardoreise.github.io/portifolio/](https://eduardoreise.github.io/portifolio/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em desenvolvimento
 
 - 📫 Como entrar em contato comigo **eduardo2019contato@gmail.com**
 
