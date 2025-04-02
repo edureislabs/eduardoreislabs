@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, sou o Eduardo</h1>
 <h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoreislabs&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoreislabs" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardoreislabs" alt="eduardoreislabs" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edureislabs&label=Profile%20views&color=0e75b6&style=flat" alt="edureislabs" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edureislabs" alt="edureislabs" /></a> </p>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em desenvolvimento
 
@@ -69,8 +69,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoreislabs&show_icons=true&locale=en&layout=compact" alt="eduardoreislabs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edureislabs&show_icons=true&locale=en&layout=compact" alt="edureislabs" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoreislabs&show_icons=true&locale=en" alt="eduardoreislabs" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=edureislabs&show_icons=true&locale=en" alt="edureislabs" /></p>
 
 
